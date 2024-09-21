@@ -1,6 +1,10 @@
 # Bilingual-Text-with-Explanation
 A series of Python scripts that take a list of sentences, translate them fully and in chunks using ChatGPT api, and output them to a markdown file that displays nicely in Obsidian.
 
+![Example 1](https://github.com/kalesh-kate/Bilingual-Text-with-Explanation/blob/main/example_1.jpg?raw=true)
+
+![Example 2](https://github.com/kalesh-kate/Bilingual-Text-with-Explanation/blob/main/example_2.jpg?raw=true)
+
 # Introduction
 
 This manual provides a step-by-step guide on how to use the Bilingual Text with Explanation pipeline implemented in Python scripts for language learning. The main program, `main.py`, orchestrates the execution of several scripts that handle translation, tokenization, explanation, and assembly of translations.
